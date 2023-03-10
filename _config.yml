@@ -1,0 +1,9 @@
+title: BLOG
+description: Yeah, it's a blog
+baseurl: "/"
+url: "https://unknown2501.github.io"
+
+markdown: kramdown
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
